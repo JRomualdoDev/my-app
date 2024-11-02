@@ -5,7 +5,7 @@ export default function Home() {
       className="w-full h-screen flex flex-col items-center justify-center"
     >
       <div
-        className="mx-auto overflow-hidden mt-10 mb-2 bg-green-900 shadow-lg border rounded-lg w-[400px]"
+        className="mx-auto overflow-hidden mt-10 mb-2 bg-green-900 shadow-lg border rounded-lg w-[400px] "
       >
         <div
           className="p-2"
